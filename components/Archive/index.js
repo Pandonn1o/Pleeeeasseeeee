@@ -1,3 +1,4 @@
+'use client'; // This line is crucial
 import { useState } from 'react';
 
 export default function Archive() {
@@ -33,3 +34,4 @@ export default function Archive() {
     </div>
   );
 }
+// ... rest of your component code
